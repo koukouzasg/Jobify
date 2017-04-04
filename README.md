@@ -1,2 +1,0 @@
-# Jobify
-A simple CVEditor.

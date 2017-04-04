@@ -1,17 +1,17 @@
 
-public class ProfessionalProfil extends Section{
-	
-	private String text = "-";
+public class CoreStrengths extends Section{
 
-	public ProfessionalProfil(String title,int number,String text) {
+	private String text;
+	
+	public CoreStrengths(String title,int number,String text) {
 		super(title, number);
 		this.text = text;
 	}
-	
+
 	public String getText() {
 		return text;
 	}
-	
+
 	public void setText(String x) {
 		text = x;
 	}

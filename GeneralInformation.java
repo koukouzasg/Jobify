@@ -21,6 +21,26 @@ public class GeneralInformation extends Section{
 		this.email = email;
 	}
 	
+	public String getName() {
+		return name;
+	}
+	
+	public String getAddress() {
+		return address;
+	}
+	
+	public String getPhone() {
+		return phone;
+	}
+	
+	public String getMobile() {
+		return mobile;
+	}
+	
+	public String getEmail() {
+		return email;
+	}
+	
 	public void setName(String x) {
 		name = x;
 	}
@@ -38,6 +58,11 @@ public class GeneralInformation extends Section{
 	}
 	
 	public void setEmail(String x) {
+
 		email = x;
+	}
+	
+	public String toString() {
+		return name + address + phone + mobile + email;
 	}
 }

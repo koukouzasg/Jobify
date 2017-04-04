@@ -1,5 +1,5 @@
 
-public class Section {
+public  class Section {
 	
 	private String title;
 	private int number;
@@ -25,4 +25,7 @@ public class Section {
 		number = x;
 	}
 
+	public String toString() {
+		return title + number;
+	}
 }
