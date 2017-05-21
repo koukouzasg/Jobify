@@ -1,0 +1,25 @@
+		Functional CV
+1. GENERAL INFORMATION
+	vagos
+	afra
+	514
+	9719
+	gmail
+2. PROFESSIONAL PROFILE
+	some profile prof1.some profile
+3. SKILLS AND EXPERIENCE
+	python
+	*	cds:12
+4. CAREER SUMMARY
+	
+	*	career:3
+5. EDUCATION AND TRAINING
+	
+	*	training:22
+6. FURTHER COURSES
+	
+	*	courses:23
+7. ADDITIONAL INFORMATION
+	sdcsdc
+8. INTERESTS
+	sdcsdvbbbb

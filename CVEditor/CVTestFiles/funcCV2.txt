@@ -1,0 +1,25 @@
+		Functional CV
+1. GENERAL INFORMATION
+	vagos
+	hjbu
+	514
+	9719
+	gmail
+2. PROFESSIONAL PROFILE
+	some profile
+3. SKILLS AND EXPERIENCE
+	python
+	*	cds:12
+4. CAREER SUMMARY
+5. EDUCATION AND TRAINING
+	
+	*	training:22
+	
+	*	tarining:2017
+6. FURTHER COURSES
+	
+	*	courses:23
+7. ADDITIONAL INFORMATION
+	sdcsdc
+8. INTERESTS
+	sdcsdvbbbb

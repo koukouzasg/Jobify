@@ -1,0 +1,25 @@
+		Combined CV
+1. GENERAL INFORMATION
+	nikos
+	somewhere
+	999999
+	10000000000
+	@facebook
+2. PROFESSIONAL PROFILE
+	what profile
+3. SKILLS AND EXPERIENCE
+	exp1
+	*	some exp:999
+4. PROFESSIONAL EXPERIENCE
+	some company
+	*	achievement X:999
+5. EDUCATION AND TRAINING
+	
+	*	some university:9999
+6. FURTHER COURSES
+	
+	*	some courses:99999
+7. ADDITIONAL INFORMATION
+	what information
+8. INTERESTS
+	what interests
