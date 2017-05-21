@@ -1,4 +1,5 @@
 # Jobify
+Jobify was developed by George Koukouzas, Vagelis Dimoulis and Alexandros Giochalas.
 
 # Introduction
 Jobify is a desktop application capable of helping and guiding the user on creating the ideal curriculum vitae.
