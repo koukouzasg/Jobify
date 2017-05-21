@@ -5,7 +5,7 @@ Jobify is a desktop application capable of helping and guiding the user on creat
 The CVeditor provides three different templates depending on the user's preferences and past experiences.
 
 
-![Alt text](https://github.com/koukouzasg/Jobify/blob/master/ApplicationMenu.PNG")
+![Alt text](https://github.com/koukouzasg/Jobify/blob/master/ApplicationMenu.PNG)
 
 
 # Functionality
