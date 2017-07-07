@@ -181,7 +181,8 @@ public class CV {
 			inputReader = new Scanner(new FileInputStream(fileName));
 		}
 		catch(FileNotFoundException e){
-			//TO-DO munhma lathous
+			System.out.println("Error opening the file!");
+			System.exit(0);
 		}
 		
 		if(fileName.endsWith(".txt")){
